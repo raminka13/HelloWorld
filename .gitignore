@@ -3,3 +3,6 @@
 
 # Ignore test.md
 test.md
+
+#Ignode node_modules
+node_modules/
